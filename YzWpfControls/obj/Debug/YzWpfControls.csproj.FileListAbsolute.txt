@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\YzWpfTest\YzWpfControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\source\repos\YzWpfTest\YzWpfControls\obj\Debug\YzWpfControls_MarkupCompile.cache
+C:\Users\user\source\repos\YzWpfTest\YzWpfControls\obj\Debug\YzWpfControls_MarkupCompile.lref
+C:\Users\user\source\repos\YzWpfTest\YzWpfControls\obj\Debug\Themes\Generic.baml
+C:\Users\user\source\repos\YzWpfTest\YzWpfControls\obj\Debug\YzWpfControls.dll
+C:\Users\user\source\repos\YzWpfTest\YzWpfControls\obj\Debug\YzWpfControls.pdb
+C:\Users\user\source\repos\YzWpfTest\YzWpfControls\bin\Debug\YzWpfControls.dll
+C:\Users\user\source\repos\YzWpfTest\YzWpfControls\bin\Debug\YzWpfControls.pdb
+C:\Users\user\source\repos\YzWpfTest\YzWpfControls\obj\Debug\Themes\BorderlessWindows10Window.baml
+C:\Users\user\source\repos\YzWpfTest\YzWpfControls\obj\Debug\YzWpfControls.g.resources
+C:\Users\user\source\repos\YzWpfTest\YzWpfControls\obj\Debug\YzWpfControls.Properties.Resources.resources
+C:\Users\user\source\repos\YzWpfTest\YzWpfControls\obj\Debug\YzWpfControls.csproj.GenerateResource.cache
+C:\Users\user\source\repos\YzWpfTest\YzWpfControls\obj\Debug\YzWpfControls.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\YzWpfTest\YzWpfControls\obj\Debug\YzWpfControls.csprojAssemblyReference.cache
