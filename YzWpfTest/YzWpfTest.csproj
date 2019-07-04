@@ -74,7 +74,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="MainWindow.xaml">
+    <Page Include="Shell.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -82,8 +82,8 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="MainWindow.xaml.cs">
-      <DependentUpon>MainWindow.xaml</DependentUpon>
+    <Compile Include="Shell.xaml.cs">
+      <DependentUpon>Shell.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -115,6 +115,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\YzWfpTest.Service\YzWfpTest.Services.csproj">
+      <Project>{01C73442-C270-41F4-A498-5F4A4CAC792E}</Project>
+      <Name>YzWfpTest.Services</Name>
+    </ProjectReference>
     <ProjectReference Include="..\YzWpfControls\YzWpfControls.csproj">
       <Project>{30b37b47-f126-429e-84b4-0c7526e4302a}</Project>
       <Name>YzWpfControls</Name>

@@ -19,9 +19,9 @@ namespace YzWpfTest
     /// <summary>
     /// MainWindow.xaml 的交互逻辑
     /// </summary>
-    public partial class MainWindow : BorderlessWindows10Window
+    public partial class Shell : BorderlessWindows10Window
     {
-        public MainWindow()
+        public Shell()
         {
             InitializeComponent();
         }

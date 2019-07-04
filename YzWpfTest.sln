@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YzWpfTest", "YzWpfTest\YzWp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YzWpfControls", "YzWpfControls\YzWpfControls.csproj", "{30B37B47-F126-429E-84B4-0C7526E4302A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YzWfpTest.Services", "YzWfpTest.Service\YzWfpTest.Services.csproj", "{01C73442-C270-41F4-A498-5F4A4CAC792E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{30B37B47-F126-429E-84B4-0C7526E4302A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30B37B47-F126-429E-84B4-0C7526E4302A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30B37B47-F126-429E-84B4-0C7526E4302A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C73442-C270-41F4-A498-5F4A4CAC792E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C73442-C270-41F4-A498-5F4A4CAC792E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C73442-C270-41F4-A498-5F4A4CAC792E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C73442-C270-41F4-A498-5F4A4CAC792E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
