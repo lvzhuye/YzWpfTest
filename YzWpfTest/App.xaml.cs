@@ -8,6 +8,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 using YzWfpTest.Services.Appearance;
+using YzWpfTest.Views;
 
 namespace YzWpfTest
 {

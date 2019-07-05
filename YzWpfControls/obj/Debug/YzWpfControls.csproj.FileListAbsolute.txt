@@ -11,3 +11,4 @@ C:\Users\user\source\repos\YzWpfTest\YzWpfControls\obj\Debug\YzWpfControls.g.res
 C:\Users\user\source\repos\YzWpfTest\YzWpfControls\obj\Debug\YzWpfControls.Properties.Resources.resources
 C:\Users\user\source\repos\YzWpfTest\YzWpfControls\obj\Debug\YzWpfControls.csproj.GenerateResource.cache
 C:\Users\user\source\repos\YzWpfTest\YzWpfControls\obj\Debug\YzWpfControls.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\YzWpfTest\YzWpfControls\obj\Debug\YzWpfControls.csprojAssemblyReference.cache

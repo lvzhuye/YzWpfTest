@@ -12,16 +12,15 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using YzWpfControls;
 
-namespace YzWpfTest
+namespace YzWpfTest.Views.Common
 {
     /// <summary>
-    /// MainWindow.xaml 的交互逻辑
+    /// SearchControl.xaml 的交互逻辑
     /// </summary>
-    public partial class Shell : BorderlessWindows10Window
+    public partial class SearchControl : UserControl
     {
-        public Shell()
+        public SearchControl()
         {
             InitializeComponent();
         }

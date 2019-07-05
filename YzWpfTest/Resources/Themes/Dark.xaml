@@ -1,0 +1,13 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:YzWpfTest.Resources.Themes">
+
+    <Color x:Key="Color_DarkGrey1">#222225</Color>
+
+    <Color x:Key="Color_Red">#931616</Color>
+
+    <SolidColorBrush x:Key="Brush_WindowHeaderBackground" Color="{StaticResource Color_DarkGrey1}"/>
+
+    <SolidColorBrush x:Key="Brush_WindowHeaderBorderBursh" Color="{StaticResource Color_Red}"/>
+
+</ResourceDictionary>

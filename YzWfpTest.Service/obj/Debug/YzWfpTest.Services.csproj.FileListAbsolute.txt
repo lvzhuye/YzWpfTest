@@ -1,6 +1,6 @@
 C:\Users\user\source\repos\YzWpfTest\YzWfpTest.Service\bin\Debug\YzWfpTest.Services.dll
 C:\Users\user\source\repos\YzWpfTest\YzWfpTest.Service\bin\Debug\YzWfpTest.Services.pdb
-C:\Users\user\source\repos\YzWpfTest\YzWfpTest.Service\obj\Debug\YzWfpTest.Services.csprojAssemblyReference.cache
 C:\Users\user\source\repos\YzWpfTest\YzWfpTest.Service\obj\Debug\YzWfpTest.Services.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\YzWpfTest\YzWfpTest.Service\obj\Debug\YzWfpTest.Services.dll
 C:\Users\user\source\repos\YzWpfTest\YzWfpTest.Service\obj\Debug\YzWfpTest.Services.pdb
+C:\Users\user\source\repos\YzWpfTest\YzWfpTest.Service\obj\Debug\YzWfpTest.Services.csprojAssemblyReference.cache

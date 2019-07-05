@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\user\source\repos\YzWpfTest\YzWpfTest\App.xaml
-1-1509316546
+4-1555833603
 
-9-1240918510
+11646622779
 22424260256
-Shell.xaml;
+Resources\Themes\Dark.xaml;Themes\SearchBox.xaml;Views\Common\SearchControl.xaml;Views\Shell.xaml;
 
 True
 

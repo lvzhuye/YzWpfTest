@@ -27,7 +27,11 @@ C:\Users\user\source\repos\YzWpfTest\YzWpfTest\bin\Debug\Prism.DryIoc.Wpf.pdb
 C:\Users\user\source\repos\YzWpfTest\YzWpfTest\bin\Debug\Prism.DryIoc.Wpf.xml
 C:\Users\user\source\repos\YzWpfTest\YzWpfTest\bin\Debug\Prism.Wpf.pdb
 C:\Users\user\source\repos\YzWpfTest\YzWpfTest\bin\Debug\Prism.Wpf.xml
-C:\Users\user\source\repos\YzWpfTest\YzWpfTest\obj\Debug\Shell.g.cs
-C:\Users\user\source\repos\YzWpfTest\YzWpfTest\obj\Debug\Shell.baml
 C:\Users\user\source\repos\YzWpfTest\YzWpfTest\bin\Debug\YzWfpTest.Services.dll
 C:\Users\user\source\repos\YzWpfTest\YzWpfTest\bin\Debug\YzWfpTest.Services.pdb
+C:\Users\user\source\repos\YzWpfTest\YzWpfTest\obj\Debug\Views\Shell.g.cs
+C:\Users\user\source\repos\YzWpfTest\YzWpfTest\obj\Debug\Resources\Themes\Dark.baml
+C:\Users\user\source\repos\YzWpfTest\YzWpfTest\obj\Debug\Views\Shell.baml
+C:\Users\user\source\repos\YzWpfTest\YzWpfTest\obj\Debug\Views\Common\SearchControl.g.cs
+C:\Users\user\source\repos\YzWpfTest\YzWpfTest\obj\Debug\Themes\SearchBox.baml
+C:\Users\user\source\repos\YzWpfTest\YzWpfTest\obj\Debug\Views\Common\SearchControl.baml
